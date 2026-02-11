@@ -1,6 +1,6 @@
 # myFinger: User Information Utility
 
-This university project implements a simplified version of the classic `finger` command in Unix/Linux systems. It retrieves and prints information about system users, including:
+This university project defines a reimplemented version of the classic `finger` command in Unix/Linux systems. It retrieves and prints information about system users, including:
 
 - Full name and GECOS fields  
 - Login status and idle time  
