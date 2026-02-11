@@ -8,6 +8,7 @@ This university project defines a reimplemented version of the classic `finger` 
 - Office and home phone numbers  
 - Mail and plan status (`.pgpkey`, `.project`, `.plan` files)
 
+> A full report of the project, written in Italian, is included in HW1.pdf.
 ## Requirements
 
 - GCC or Clang compiler  
