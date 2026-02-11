@@ -34,10 +34,9 @@ Run the program in the terminal as follows:
 
 ## Command Options
 
-The program supports the following **keywords/options**:
+The program supports the following **options**, which specify different **output formats**:
 
-- `-s` : Display user data in **short format**.  
-  The output is compact and tabular.
+- `-s` : Display user data in **short format**. The output is compact and tabular.
 
 - `-l` : Display user data in **long format**. If both `-s` and `-l` are provided, `-l` takes precedence. If neither is specified, the default behavior is long format.
 
